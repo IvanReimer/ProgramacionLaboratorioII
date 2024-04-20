@@ -1,6 +1,5 @@
 ﻿using System.Text;
-
-namespace Entidades
+namespace Entidades.Clase_2.Ejercicio_I05
 {
     public static class GeneradorTablas
     {
